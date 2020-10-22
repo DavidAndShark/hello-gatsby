@@ -1,9 +1,10 @@
 import React from "react"
+import Header from "../components/header"
 
 export default function Contact() {
   return (
     <div style={{ color: "teal", fontFamily: "sans-serif" }}>
-      <h1>Get in touch!</h1>
+      <Header />
       <p>Light the bat signal!</p>
     </div>
   )
