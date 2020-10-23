@@ -1,11 +1,14 @@
 import React from "react"
 import NavBar from "../navbar"
+import styles from "./layout.module.css"
 
 export default function Layout({ children }) {
   return (
-    <div style={{ margin: `3rem auto`, maxWidth: 650, padding: `0 1rem` }}>
+    <div className={styles.layout}>
       <NavBar />
-      {children}
+      <main>
+        {children}
+      </main>
     </div>
   )
 }

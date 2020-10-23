@@ -1,0 +1,17 @@
+.nav {
+  display: flex;
+  align-items: center;
+}
+
+.nav > * {
+  display: inline-block;
+  margin: 1rem 0 0 1rem;
+}
+
+.nav > a:first-of-type {
+  margin-left: auto;
+}
+
+#site-title {
+  margin-left: 0;
+}
