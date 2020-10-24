@@ -1,5 +1,12 @@
 .layout {
-  margin: 3rem auto; 
-  max-width: 650px;
+  margin: 3rem auto 0; 
+  max-width: 850px;
   padding: 0 1rem;
+  display: flex;
+  flex-direction: column;
+  min-height: calc(100vh - 3rem);
+}
+
+.layout > main {
+  flex-grow: 1;
 }

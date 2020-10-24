@@ -3,7 +3,6 @@ import { Link } from "gatsby"
 import styles from "./navbar.module.css"
 
 export default function NavBar() {
-  console.log(styles)
   return (
     <nav className={styles.nav}>
       <h3 id={styles.siteTitle}>my site?!</h3>
