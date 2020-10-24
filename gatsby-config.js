@@ -5,7 +5,10 @@
  */
 
 module.exports = {
-  /* Your site config here */
+  siteMetadata: {
+    title: `A website on the internet!`,
+    creator: `David Stinson`,
+  },
   plugins: [
     {
       resolve: `gatsby-plugin-typography`,
