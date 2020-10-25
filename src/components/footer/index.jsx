@@ -15,7 +15,11 @@ export default function Footer() {
   )
   return (
     <footer style={{textAlign: "right"}}>
-      <p><small>&copy; {new Date().getFullYear()} {data.site.siteMetadata.creator}</small></p>
+      <p>
+        <small>
+          &copy; {new Date().getFullYear()} {data.site.siteMetadata.creator}
+        </small>
+      </p>
     </footer>
   )
 }
