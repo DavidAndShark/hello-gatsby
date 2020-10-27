@@ -6,3 +6,8 @@
   margin-bottom: .3rem;
   color: #999999
 }
+
+.link {
+  text-decoration: none;
+  color: inherit;
+}

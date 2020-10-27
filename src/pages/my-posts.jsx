@@ -6,7 +6,7 @@ import Header from "../components/header"
 const MyPosts = ({ data }) => {
   return (
     <Layout>
-      <Header headerText="My Pages" />
+      <Header headerText="My Posts" />
       <table>
         <thead>
           <tr>

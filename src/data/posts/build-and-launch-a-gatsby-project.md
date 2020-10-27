@@ -58,5 +58,3 @@ git remote add upstream https://github.com/DavidAndShark/hello-gatsby.git
 ```
 
 Live coding will be done in the main branch, but both the starter-code and complete-code are available in separate branches.
-
-hello I made a change to this file!
