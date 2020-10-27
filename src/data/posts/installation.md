@@ -2,6 +2,7 @@
 title: "Up and Running"
 date: "10/24/2020"
 author: "David Stinson"
+description: "Details how to install the Gatsby CLI globally."
 ---
 
 ![The legs of a running person, by sporlab, found at unsplash.com/@sporlab](https://images.unsplash.com/photo-1571008887538-b36bb32f4571?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80)

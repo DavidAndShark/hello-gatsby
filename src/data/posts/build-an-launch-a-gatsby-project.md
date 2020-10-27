@@ -2,6 +2,7 @@
 title: "Build and Launch a Gatsby Project"
 date: "10/26/2020"
 author: "David Stinson"
+description: "Reviews how to build and launch a project, and gives a brief overview of the Gatsby file structure."
 ---
 
 ![Falcon Heavy Launch, by SpaceX. Found at unsplash.com/@spacex](https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80)
