@@ -1,3 +1,9 @@
+---
+title: "What's the Magic"
+date: "10/25/2020"
+author: "David Stinson"
+---
+
 ![A person touching an orb of power (maybe not magic as much as science, whoops!). By Ramón Salinero, found at unsplash.com/@donramxn](https://images.unsplash.com/photo-1496065187959-7f07b8353c55?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80)
 
 # What's the Magic
