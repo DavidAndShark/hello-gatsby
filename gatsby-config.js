@@ -7,7 +7,8 @@
 module.exports = {
   siteMetadata: {
     title: `A website on the internet!`,
-    creator: `David Stinson`,
+    author: `David Stinson`,
+    description: `David Stinson has successfully built a website on the internet!`
   },
   plugins: [
     {
@@ -24,5 +25,6 @@ module.exports = {
       },
     },
     `gatsby-transformer-remark`,
+    `gatsby-plugin-react-helmet`,
   ],
 }

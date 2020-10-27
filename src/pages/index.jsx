@@ -8,7 +8,7 @@ export default function Home({ data }) {
   return (
     <Layout>
       <Header headerText={data.site.siteMetadata.title}/>
-      <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
+      <p>{data.allMarkdownRemark.totalCount} Posts</p>
       {data.allMarkdownRemark.edges.map(({ node }) => (
         <article key={node.id}>
           <Link to={node.fields.slug} className={styles.link}>
